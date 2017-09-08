@@ -1,0 +1,22 @@
+{
+  "name": "angular-2-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolikrss/Angular2Sctructure.git"
+  },
+  "author": "Anatolii Lakhno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolikrss/Angular2Sctructure/issues"
+  },
+  "homepage": "https://github.com/tolikrss/Angular2Sctructure#readme",
+  "devDependencies": {
+    "@angular/cli": "^1.4.0"
+  }
+}
